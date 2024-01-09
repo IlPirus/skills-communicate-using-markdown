@@ -4,3 +4,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Tested headers
+- [x] Added image
+- [ ] Completed course
